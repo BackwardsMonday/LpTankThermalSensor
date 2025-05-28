@@ -1,6 +1,6 @@
 ---
 title: "Liqued Propane Thermal Sensor"
-author: "Your name (name or slack username)"
+author: "Daymon Wright"
 description: "Uses an infrared thermal sensor array to identify how full a propane tank is"
 created_at: "2025-05-25"
 ---
